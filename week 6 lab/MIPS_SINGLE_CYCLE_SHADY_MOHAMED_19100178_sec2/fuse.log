@@ -1,0 +1,52 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_test_isim_beh.exe" -prj "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_test_beh.prj" "work.processor_test" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/SignExtend_ShadyTarek_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/ShiftLeft_ShadyTarek_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/reg_FILE_Shady_Mohamed_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/PcMux2to1.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/PC202_ShadyTarek_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/mux5_ShadyTarek_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/mux32_ShadyTarek_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/instr_memory_shady_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/DAtaMemory_shady_mohamed_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/CONTROLUNIT_Shady_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/ALU_Shady_Mohamed.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/alu_control_Shady_Mohamed_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/ALUMUX2to1.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/adde_2022_ShadyTarek_19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/adder4_ShadyTarek19100178.vhd" into library work
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_sady_mohamed_19100178.vhd" into library work
+WARNING:HDLCompiler:946 - "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_sady_mohamed_19100178.vhd" Line 218: Actual for formal port s is neither a static name nor a globally static expression
+Parsing VHDL file "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity PC202_ShadyTarek_19100178 [pc202_shadytarek_19100178_defaul...]
+Compiling architecture behavioral of entity adder4_ShadyTarek19100178 [adder4_shadytarek19100178_defaul...]
+Compiling architecture behavioral of entity InstructionMemory [instructionmemory_default]
+Compiling architecture behavioral of entity mux5_ShadyTarek_19100178 [mux5_shadytarek_19100178_default]
+Compiling architecture behavioral of entity PcMux2to1 [pcmux2to1_default]
+Compiling architecture behavioral of entity reg_file_shady_mohamed_19100178 [reg_file_shady_mohamed_19100178_...]
+Compiling architecture behavioral of entity mux32_ShadyTarek_19100178 [mux32_shadytarek_19100178_defaul...]
+Compiling architecture behavioral of entity ALU_Shady_Mohamed [alu_shady_mohamed_default]
+Compiling architecture behavioral of entity alu_control_Shady_Mohamed_19100178 [alu_control_shady_mohamed_191001...]
+Compiling architecture behavioral of entity adde_2022_ShadyTarek_19100178 [adde_2022_shadytarek_19100178_de...]
+Compiling architecture behavioral of entity ShiftLeft_ShadyTarek_19100178 [shiftleft_shadytarek_19100178_de...]
+Compiling architecture behavioral of entity SignExtend_ShadyTarek_19100178 [signextend_shadytarek_19100178_d...]
+Compiling architecture behavioral of entity CONTROLUNIT_Shady_19100178 [controlunit_shady_19100178_defau...]
+Compiling architecture behavioral of entity ALUMUX2to1 [alumux2to1_default]
+Compiling architecture behavioral of entity DAtaMemory_shady_mohamed_19100178 [datamemory_shady_mohamed_1910017...]
+Compiling architecture behavioral of entity processor_sady_mohamed_19100178 [processor_sady_mohamed_19100178_...]
+Compiling architecture behavior of entity processor_test
+Time Resolution for simulation is 1ps.
+Compiled 38 VHDL Units
+Built simulation executable D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_test_isim_beh.exe
+Fuse Memory Usage: 39208 KB
+Fuse CPU Usage: 530 ms

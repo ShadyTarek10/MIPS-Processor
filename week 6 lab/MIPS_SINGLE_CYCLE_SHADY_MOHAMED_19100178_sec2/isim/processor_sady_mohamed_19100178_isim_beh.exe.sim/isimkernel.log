@@ -1,0 +1,29 @@
+Command line:
+   processor_sady_mohamed_19100178_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53968
+
+Wed May 18 23:15:05 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5155.42 Meg
+
+ Total Signals          : 93
+ Total Nets             : 3545
+ Total Signal Drivers   : 29
+ Total Blocks           : 20
+ Total Primitive Blocks : 19
+ Total Processes        : 17
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 4046
+Total Line Count : 100
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 5155.42 Meg
+
+Wed May 18 23:15:13 2022
+

@@ -1,0 +1,29 @@
+Command line:
+   DAtaMemory_shady_mohamed_19100178_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  53912
+
+Wed May 18 23:03:05 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5151.06 Meg
+
+ Total Signals          : 7
+ Total Nets             : 1123
+ Total Signal Drivers   : 2
+ Total Blocks           : 3
+ Total Primitive Blocks : 3
+ Total Processes        : 1
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 1606
+Total Line Count : 9
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5151.06 Meg
+
+Wed May 18 23:03:17 2022
+

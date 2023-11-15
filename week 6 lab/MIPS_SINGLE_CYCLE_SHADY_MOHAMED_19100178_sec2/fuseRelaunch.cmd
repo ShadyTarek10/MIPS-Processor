@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_test_isim_beh.exe" -prj "D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_test_beh.prj" "work.processor_test" 

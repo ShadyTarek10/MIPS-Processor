@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"D:/Term 6/Computer_arch/Shady_Mohamed_Tarek_19100178/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/processor_sady_mohamed_19100178.vhd" Line 218: Actual for formal port <arg fmt="%s" index="1">s</arg> is neither a static name nor a globally static expression
+</msg>
+
+</messages>
+

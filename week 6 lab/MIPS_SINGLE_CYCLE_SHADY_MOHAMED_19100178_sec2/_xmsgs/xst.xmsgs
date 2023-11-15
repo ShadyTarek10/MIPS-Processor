@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd" Line 218: Actual for formal port <arg fmt="%s" index="1">s</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\instr_memory_shady_19100178.vhd" Line 63: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\instr_memory_shady_19100178.vhd" Line 64: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\instr_memory_shady_19100178.vhd" Line 65: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\instr_memory_shady_19100178.vhd" Line 66: <arg fmt="%s" index="1">mem</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\reg_FILE_Shady_Mohamed_19100178.vhd" Line 71: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\reg_FILE_Shady_Mohamed_19100178.vhd" Line 72: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\DAtaMemory_shady_mohamed_19100178.vhd" Line 62: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\DAtaMemory_shady_mohamed_19100178.vhd" Line 63: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\DAtaMemory_shady_mohamed_19100178.vhd" Line 64: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\DAtaMemory_shady_mohamed_19100178.vhd" Line 65: <arg fmt="%s" index="1">data_memory</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">188</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_PC202_ShadyTarek_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">PC202_ShadyTarek_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">195</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_adder4_ShadyTarek19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">adder4_ShadyTarek19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">200</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_InstructionMemory</arg>&gt; of block &lt;<arg fmt="%s" index="4">InstructionMemory</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">206</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_mux5_ShadyTarek_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">mux5_ShadyTarek_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">215</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_PcMux2to1</arg>&gt; of block &lt;<arg fmt="%s" index="4">PcMux2to1</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">222</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_reg_file_shady_mohamed_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">reg_file_shady_mohamed_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">233</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_mux32_ShadyTarek_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">mux32_ShadyTarek_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">241</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_ALU_Shady_Mohamed</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU_Shady_Mohamed</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">249</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_alu_control_Shady_Mohamed_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">alu_control_Shady_Mohamed_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">255</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_adde_2022_ShadyTarek_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">adde_2022_ShadyTarek_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">262</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_ShiftLeft_ShadyTarek_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">ShiftLeft_ShadyTarek_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">267</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_SignExtend_ShadyTarek_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">SignExtend_ShadyTarek_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">272</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_CONTROLUNIT_Shady_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">CONTROLUNIT_Shady_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">285</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_ALUMUX2to1</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALUMUX2to1</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">D:\Term 6\Computer_arch\week 6 lab-20220404T095516Z-003\week 6 lab\MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2\processor_sady_mohamed_19100178.vhd</arg>&quot; line <arg fmt="%d" index="2">294</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">Inst_DAtaMemory_shady_mohamed_19100178</arg>&gt; of block &lt;<arg fmt="%s" index="4">DAtaMemory_shady_mohamed_19100178</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">processor_sady_mohamed_19100178</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+</messages>
+

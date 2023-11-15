@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/week 6 lab-20220404T095516Z-001/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/adde_2022_ShadyTarek_19100178.xst" -ofn "D:/week 6 lab-20220404T095516Z-001/week 6 lab/MIPS_SINGLE_CYCLE_SHADY_MOHAMED_19100178_sec2/adde_2022_ShadyTarek_19100178.syr" 
